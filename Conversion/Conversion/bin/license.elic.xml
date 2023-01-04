@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Key="9EZJpehYmtVteSMBAF53PRGqjIVDTywOrqczDos7wGCNyVQJSKvi+5pQZ3KID1Rd8oy3ZQm9Uyvfru2WX4AYJ57G4Qp9+V1cRRdQlPTVFm1UeVgCcEYXqOJrCb6/ktV+znF5RJQ7xzFVjxgnwx6RGtzSmmTqwg+Xev+Ak1pOdY+dpwPK3thG3J3ewReKO2x+p7X09CdH9lz9LvHloX2/lMk4XFeTkjc1RD5MRgyB8NydGw50vG4GuV8uuqTyafiImXr/Q4SuJfKJ07iDcVEh4SfMsGCvRDdSkTVVy23oO6814Bm8VLWE7tjeAttBS9NXcDmxwgEeqwlrmKrubwLPGHVUVnCRs6yPOdNXQopwkwh7oSlpdLS+7vK2ZVnmUWFYpExfz0EYEHuIe8qh1VxlZ10WKrdm+MzLXke3MxY/TS895xLSRwmncTxesUT0Oho4v/AAIEhGjuj9abvEX9jqfjnJxHbUFFDLUsbbxWJZTWkrLRfLnAJHmhTIuFlDerAxCZClSZbLJKpdRL3VNpxqEGa5alBTxOidFqYfMnhACp1uY1VhQzv3RHWaOSF6CVApffo4VDDl/96FtODAHn53jIaivaUEWSAaz3iM7jTmkunb3+a50IgfIHWkLMSeGBz3/gFJ2XL7ojg+jYMVdQ4CUASDj8dt1V+vXhydWMu+0BlTCxwQAjv70p0JspCdtnbPGd1foY+TttNpCyztCi2RAA9Gs70faf8GKkEL7wE3jF9hHr4hlIG4orp3KCKOalo2FBU7eO3252vdvKIX5s7nifqdg4KytvUs8ZIFroTBOzg2mAOChlCrFCYje7BAbB9GcZQY70mLVoNvh/lHfMEd7R2eHTEvLe99G4tlJRr23QQ+ZJtZow83U7zsqC2ho/WV/mYr2shCdKudwyky/kG7DnqReAUDIpm+sFU9tP8DQvuJK4UDIC5VWflFmLdOGuWakVUHepRRFHW+HtK4CTx/8aEDwcivPEL51aZ528nV0G9icQ6rDcjpV3HFgaP0hSt+NQH5JRqP3+rjzSx/c1mNZ8pAySdVznC5V6S500JGKwrNIbTujZOl47fbpiXXcNCodZL/eQQt4DwW4o908FayjPl2H4l0GvvaJuSIN+5V+uuE4Kpl6ifGW41i6CEtXGhgy3znX/ZsddmwY0u9dguNFsgdaG03MKAx4R1KPex6Sw9Vmv1Wu9s3z5iGUTC5lzdaMrpK5kuYy+eAPIxCDNPpBPNoOp6GqVF6te1H9fZPfbtIVbVq9tEtrQizn/LmSOUT62iKx46CkLeX4Jxg2NltYgceF2NegfExYfrrguNlWD1lGuNe2NBzp5nFamn/cCVcCvTb9YKI06xGmULLhhKmMzTjqF1KnPJHjZhrXa4+k/blMiUyAQniXin2JmnyrA1THXM0aNpmOilPeS27ATn3roAitX40BgIHyWT+l4Dcjq0hVizOwBYXFiheymgUVHlh1Uw5mmavhfXLT4B1t7zKqCvTSHcg48yclU4B8++3Sz5Gy971IaWnchHMzfx74TAwi2Z7/F1jLH75+MPGpNFKlqNzirqXt3enb/+xVDTJg1uwGiwJ9zvzHjBDT1fUzaCn0t/MC+4a6RFe02C9Q9vAGw==" Version="1.3">
+	<Type>Runtime</Type>
+	<Username>Mitra Bilgisayar Yazilim ve Danismanlik Sanayi Tic. Ltd.</Username>
+	<Email>taner@mitrabilisim.com.tr</Email>
+	<Organization>Mitra Bilgisayar Yazilim ve Danismanlik Sanayi Tic. Ltd.</Organization>
+	<LicensedDate>2017-11-23T00:00:00Z</LicensedDate>
+	<ExpiredDate>2018-05-23T00:00:00Z</ExpiredDate>
+	<Products>
+		<Product>
+			<Name>Spire.Office for .NET</Name>
+			<Version>2.16</Version>
+			<Subscription>
+				<NumberOfPermittedDeveloper>1</NumberOfPermittedDeveloper>
+				<NumberOfPermittedSite>2147483647</NumberOfPermittedSite>
+			</Subscription>
+		</Product>
+	</Products>
+	<Issuer>
+		<Name>e-iceblue</Name>
+		<Email>sales@e-iceblue.com</Email>
+		<Url>http://www.e-iceblue.com</Url>
+	</Issuer>
+</License>
